@@ -41,3 +41,7 @@ var hasPet = true;
 console.log(hasPet);
 console.log(age);
 console.log('How much stuff can a variable hold? ', strength);
+
+var morningAlarm = '6:30AM';
+morningAlarm = '7:30AM: 8:30AM';
+console.log('Morning alarm is set to: 8:30AM');
